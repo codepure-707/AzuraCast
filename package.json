@@ -50,7 +50,7 @@
     "vue-easy-lightbox": "^1.16",
     "vue-router": "^4.2.4",
     "vue3-gettext": "3.0.0-beta.6",
-    "wavesurfer.js": "^7",
+    "wavesurfer.js": "^7.9.5",
     "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
